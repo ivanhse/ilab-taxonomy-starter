@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+wx_doc_extractions/.DS_Store
+knowledge/.DS_Store
+compositional_skills/.DS_Store
+.DS_Store
